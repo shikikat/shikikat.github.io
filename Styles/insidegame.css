@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+	color:#ffffff;
+}
+ 
+h1{
+text-align:center;
+color: #ffffff;
+}
+
+P{
+	padding:50px;
+	text-align:left;
+	font-size:20px;
+	color:#ffffff;
+}
+<
+img{
+	padding:50px;
+}
+
+LI{
+	display: inline;
+	margin-right: 10px;
+}
+
+a:link {
+	text-decoration: none;
+	color: deeppink;
+}
+a:visited{
+	color: #ffffff;
+}
+a:hover{
+	text-decoration: underline;
+	color:deepskyblue;
+}
+a:active {
+	color: darkcyan;
+}
+nav {
+	text-align: center;
+}
+}
