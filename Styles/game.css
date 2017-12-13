@@ -1,15 +1,18 @@
 body{
 	background-color: black;
+	color: white;
 }
  
 h1{
 text-align:center;
+color: white;
 }
 
 P{
 	padding:50px;
 	text-align:left;
 	font-size:20px;
+	color: white;
 }
 <
 img{
@@ -26,7 +29,7 @@ a:link {
 	color: deeppink;
 }
 a:visited{
-	color: black;
+	color: white;
 }
 a:hover{
 	text-decoration: underline;
