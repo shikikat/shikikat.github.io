@@ -1,6 +1,9 @@
 body{
 	background-color: black;
 	color:#ffffff;
+	padding: 50px 10px;
+	margin: 0 auto;
+	max-width: 900px;
 }
  
 h1{
@@ -40,12 +43,6 @@ a:active {
 }
 nav {
 	text-align: center;
-}
-
-body {
-  padding: 50px 10px;
-  margin: 0 auto;
-  max-width: 900px;
 }
 
 #some-element {
