@@ -11,8 +11,12 @@ text-align:center;
 color: #ffffff;
 }
 
-P{
+h3{
+	font-family: 'Pangolin', cursive;
+}
 
+P{
+	font-family: 'Pangolin', cursive;
 	text-align:center;
 	font-size:20px;
 	color:#ffffff;
@@ -29,6 +33,7 @@ LI{
 
 a{
   text-align:center;
+  
 }
 
 a:link {
@@ -56,6 +61,7 @@ body {
 }
 
 #some-element {
+  font-family: 'Pangolin', cursive;
   color:red;
   display: none;
   font-size: 12px;
@@ -67,6 +73,7 @@ body {
 }
 
 #some-more-element {
+  font-family: 'Pangolin', cursive;
   color:red;
   display: none;
   font-size: 12px;
