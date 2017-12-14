@@ -45,18 +45,12 @@ nav {
 	text-align: center;
 }
 
-body {
-  padding: 50px 10px;
-  margin: 0 auto;
-  max-width: 900px;
-}
-
 #some-element {
   color:red;
   display: none;
   font-size: 12px;
-  margin-top: 10px;
   text-transform: uppercase;
+  text-align: left;
 }
 
 #some-div:hover #some-element {
@@ -67,10 +61,11 @@ body {
   color:red;
   display: none;
   font-size: 12px;
-  margin-top: 20px;
   text-transform: uppercase;
+  text-align: left;
 }
 
 #some-div2:hover #some-more-element {
   display: block;
+}
 }
