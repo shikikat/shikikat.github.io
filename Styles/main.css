@@ -1,7 +1,10 @@
 body{
 	background-color: lightblue;
 }
- 
+nav {
+	text-align: center;
+} 
+
 h1{
 text-align:center;
 font-family: 'Fjalla One', sans-serif;
@@ -40,7 +43,5 @@ a:hover{
 a:active {
 	color: darkcyan;
 }
-nav {
-	text-align: center;
-}
+
 }
